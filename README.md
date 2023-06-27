@@ -1,15 +1,15 @@
 # Welcome to my profile! 👋
 
 ### About Me 🙋‍♂️📝
-- Computer Science undergraduate at Pontifical Catholic University of Rio Grande do Sul (PUCRS) 🎓📚
-- Software developer intern at the Software Innovation Laboratory from HP Inc./PUCRS 🖥️🤓
+- Computer Science undergraduate at **Pontifical Catholic University of Rio Grande do Sul (PUCRS)** 🎓📚
+- Software developer intern at the Software Innovation Laboratory (*Laboratório de Inovação em Software* &mdash; **LIS**) from **HP Inc./PUCRS** 🖥️🤓
 
 ### Fields of Interest ℹ
 - Software Engineering 💻🔧
 - Back-end and Web Development 🌐
 
 ### Current Projects
-- [HP Anyware Remote System Controller (RSC)](https://www.hp.com/us-en/solutions/anyware-remote-system-controller.html) (software development team 👨‍💻)
+- [HP Anyware Remote System Controller (RSC)](https://www.hp.com/us-en/solutions/anyware-remote-system-controller.html) (software development team on the LIS side 👨‍💻)
 
 ### Main Programming Languages 
 - Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java-icon" width="20" height="20" />
