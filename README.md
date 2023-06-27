@@ -1,16 +1,24 @@
-### Hi there 👋
+### Welcome to my profile! 👋
 
-<!--
-**rsuffert/rsuffert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate at Pontifical Catholic University of Rio Grande do Sul (PUCRS) and a software developer intern at the Software Innovation Laboratory from HP Inc./PUCRS. 🖥️🤓
 
-Here are some ideas to get you started:
+## Fields of Interest ℹ
+- Software Engineering 💻🔧
+- Back-end and Web Development 🌐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [HP Anyware Remote System Controller (RSC)](https://www.hp.com/us-en/solutions/anyware-remote-system-controller.html)
+
+## Main Programming Languages 
+- Java ☕
+- Python 🐍
+- C 🅒
+- C++ 🅒🅟🅟
+
+## GitHub Stats (public repositories)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsuffert&show_icons=true&count_private=true&theme=radical)
+
+## Contact Info 📞
+-  📧 [Email](mailto:ricardobsuffert@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-suffert/)
+
