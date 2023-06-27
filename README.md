@@ -11,7 +11,7 @@
 - Virtual Reality (VR) and Game Development 🎮🕹️
 
 ### Current Projects
-- [HP Anyware Remote System Controller (RSC)](https://www.hp.com/us-en/solutions/anyware-remote-system-controller.html) (software development team on the LIS side 👨‍💻)
+- [HP Anyware Remote System Controller (RSC)](https://www.hp.com/us-en/solutions/anyware-remote-system-controller.html): member of the software development team on the LIS side 👨‍💻
 
 ### Main Programming Languages 
 - Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java-icon" width="20" height="20" />
