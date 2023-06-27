@@ -12,15 +12,14 @@
 - [HP Anyware Remote System Controller (RSC)](https://www.hp.com/us-en/solutions/anyware-remote-system-controller.html) (software development team 👨‍💻)
 
 ### Main Programming Languages 
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20" height="20" />
-- Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20" />
-- C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="20" height="20" />
-- C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20" />
+- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java-icon" width="20" height="20" />
+- Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python-icon" width="20" height="20" />
+- C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C-language-icon" width="20" height="20" />
+- C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="CPP-language-icon" width="20" height="20" />
 
 ### GitHub Stats (public repositories only)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsuffert&show_icons=true&count_private=true&theme=radical)
 
 ### Contact Info 📞
--  📧 [Email](mailto:ricardobsuffert@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-suffert/)
-
+- 📧 [Email](mailto:ricardobsuffert@gmail.com)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" /> [LinkedIn](https://www.linkedin.com/in/ricardo-suffert/)
