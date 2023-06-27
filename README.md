@@ -7,6 +7,8 @@
 ### Fields of Interest ℹ
 - Software Engineering 💻🔧
 - Back-end and Web Development 🌐
+- Artificial Intelligence (AI) 🤖
+- Virtual Reality (VR) and Game Development 🎮🕹️
 
 ### Current Projects
 - [HP Anyware Remote System Controller (RSC)](https://www.hp.com/us-en/solutions/anyware-remote-system-controller.html) (software development team on the LIS side 👨‍💻)
