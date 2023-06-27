@@ -2,7 +2,7 @@
 
 ### About Me 🙋‍♂️📝
 - Computer Science undergraduate at **Pontifical Catholic University of Rio Grande do Sul (PUCRS)** 🎓📚
-- Software developer intern at the Software Innovation Laboratory (*Laboratório de Inovação em Software* &mdash; **LIS**) from **HP Inc./PUCRS** 🖥️🤓
+- Software development intern at the Software Innovation Laboratory (*Laboratório de Inovação em Software* &mdash; **LIS**) from **HP Inc./PUCRS** 🖥️🤓
 
 ### Fields of Interest ℹ
 - Software Engineering 💻🔧
