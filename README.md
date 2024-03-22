@@ -19,8 +19,8 @@
 
 <table border="0">
   <tr>
-    <td>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsuffert&show_icons=true&count_private=true&theme=radical)</td>
-    <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsuffert&theme=radical)</td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=rsuffert&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsuffert&theme=radical" alt="Top Langs"></td>
   </tr>
 </table>
 
