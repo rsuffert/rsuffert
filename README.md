@@ -21,7 +21,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsuffert&show_icons=true&count_private=true&theme=radical)
 
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rsuffert)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
 
 ### Contact Info 📞
 - 📧 [Email](mailto:ricardobsuffert@gmail.com)
