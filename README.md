@@ -20,6 +20,9 @@
 ### GitHub Stats (public repositories only)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsuffert&show_icons=true&count_private=true&theme=radical)
 
+### Most Used Languages
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rsuffert)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contact Info 📞
 - 📧 [Email](mailto:ricardobsuffert@gmail.com)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" /> [LinkedIn](https://www.linkedin.com/in/ricardo-suffert/)
