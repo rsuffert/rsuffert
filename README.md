@@ -17,9 +17,12 @@
 - C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C language icon" width="20" height="20" />
 - C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="CPP language icon" width="20" height="20" />
 
-| | |
-|---------|---------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsuffert&show_icons=true&count_private=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsuffert&theme=radical) |
+<table border="0">
+  <tr>
+    <td>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsuffert&show_icons=true&count_private=true&theme=radical)</td>
+    <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsuffert&theme=radical)</td>
+  </tr>
+</table>
 
 ### Contact Info 📞
 - 📧 [Email](mailto:ricardobsuffert@gmail.com)
