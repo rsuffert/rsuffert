@@ -1,5 +1,7 @@
 # Welcome to my profile! 👋
 
+![Visitor Count](https://profile-counter.glitch.me/rsuffert/count.svg)
+
 ### About Me 🙋‍♂️📝
 - Computer Science undergraduate at **Pontifical Catholic University of Rio Grande do Sul (PUCRS)** 🎓📚
 
