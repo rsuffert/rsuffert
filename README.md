@@ -1,6 +1,6 @@
 # Welcome to my profile! 👋
 
-![Visitor Count](https://profile-counter.glitch.me/rsuffert/count.svg)
+![GitHub Views](https://komarev.com/ghpvc/?username=rsuffert)
 
 ### About Me 🙋‍♂️📝
 - Computer Science undergraduate at **Pontifical Catholic University of Rio Grande do Sul (PUCRS)** 🎓📚
