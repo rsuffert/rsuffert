@@ -17,7 +17,7 @@
 - C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C language icon" width="20" height="20" />
 - C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="CPP language icon" width="20" height="20" />
 
-<table style="border-collapse: collapse;">
+<table style="border: none;">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsuffert&theme=radical" alt="Top Langs"></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=rsuffert&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats"></td>
