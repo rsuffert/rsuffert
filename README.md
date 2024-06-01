@@ -1,16 +1,14 @@
 # Welcome to my profile! 👋
 
-![GitHub Views](https://komarev.com/ghpvc/?username=rsuffert)
-
 ### About Me 🙋‍♂️📝
 - Computer Science undergraduate at **Pontifical Catholic University of Rio Grande do Sul (PUCRS)** 🎓📚
 
 ### Fields of Interest ℹ
-- Software Engineering 💻🔧
 - Back-end and Web Development 🌐
 - Artificial Intelligence (AI) 🤖
 - Parallel & Distributed Computing 📶
 - Cybersecurity 🔒
+- Game development 🎮🕹️
 
 ### Professional Projects (in addition to what's on my GitHub) 🚀
 - [HP Anyware Remote System Controller (RSC)](https://www.hp.com/us-en/solutions/anyware-remote-system-controller.html) - former member of the software development team on the Software Innovation Laboratory's side 👨‍💻
