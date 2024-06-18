@@ -8,7 +8,6 @@
 - Artificial Intelligence (AI) 🤖
 - Parallel & Distributed Computing 📶
 - Cybersecurity 🔒
-- Game development 🎮🕹️
 
 ### Professional Projects (in addition to what's on my GitHub) 🚀
 - [HP Anyware Remote System Controller (RSC)](https://www.hp.com/us-en/solutions/anyware-remote-system-controller.html) - former member of the software development team on the Software Innovation Laboratory's side 👨‍💻
