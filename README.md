@@ -5,7 +5,7 @@
 
 ### Fields of Interest ℹ
 - Back-end and Web Development 🌐
-- Parallel, Distributed & Cloud Computing 📶
+- Parallel, Distributed & Cloud Computing 📶☁️
 - Cybersecurity 🔒
 - Artificial Intelligence (AI) 🤖
 
