@@ -11,7 +11,8 @@
 - Artificial Intelligence (AI) 🤖
 
 ### Professional Projects (in addition to what's on my GitHub) 🚀
-- [HP Anyware Remote System Controller (RSC)](https://www.hp.com/us-en/solutions/anyware-remote-system-controller.html) - former member of the software development team on the Software Innovation Laboratory's side 👨‍💻
+- [HP Anyware Remote System Controller (RSC)](https://www.hp.com/us-en/solutions/anyware-remote-system-controller.html) 🎛️ - former member of the software development team on the Software Innovation Laboratory's side
+- [HP OneCloud](https://zone.hponecloud.com/signin) ☁️ - maintaning and updating cloud-native distributed systems.
 
 ### Main Programming Languages <img src="https://cdn-icons-png.flaticon.com/512/3655/3655567.png" alt="Programming languages icon" width="30" height="30">
 - Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java icon" width="20" height="20" />
