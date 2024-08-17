@@ -2,7 +2,7 @@
 
 ### About Me 🙋‍♂️📝
 - Computer Science undergraduate at **Pontifical Catholic University of Rio Grande do Sul (PUCRS)** 🎓📚
-- Software Engineering Intern at HP Inc. 🧑‍💻
+- Software Engineering Intern at **HP Inc.** 🧑‍💻
 
 ### Fields of Interest ℹ
 - Back-end and Web Development 🌐
