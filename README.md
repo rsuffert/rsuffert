@@ -8,6 +8,7 @@
 - Back-end and Web Development 🌐
 - Parallel, Distributed & Cloud Computing 📶 ☁️
 - Cybersecurity 🔒
+- Computer Networks 🛜
 - Artificial Intelligence (AI) 🤖
 
 ### Professional Projects (in addition to what's on my GitHub) 🚀
