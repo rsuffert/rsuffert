@@ -10,10 +10,11 @@
  
 ##
 
-### About Me 🙋‍♂️📝
-- Software developer from Brazil 🇧🇷
+### About Me 🙋‍♂️
+- Software developer & computer scientist from Brazil 🇧🇷
 - Computer Science undergraduate at **Pontifical Catholic University of Rio Grande do Sul (PUCRS)** 🎓
 - Software Engineering Intern at **HP Inc.** 🧑‍💻
+
 ##
 
 ### Fields of Interest ℹ
@@ -22,15 +23,20 @@
 - Cybersecurity 🔒
 - Computer Networks 🛜
 - Artificial Intelligence (AI) 🤖
+
 ##
 
 ### Professional Projects 🚀
-- [HP Anyware Remote System Controller (RSC)](https://www.hp.com/us-en/solutions/anyware-remote-system-controller.html) 🎛️ - former member of the software development team on the Software Innovation Laboratory's side.
-- [HP OneCloud](https://zone.hponecloud.com/signin) ☁️ - currently providing assistance in maintaining and updating cloud-native distributed systems.
+- **HP Anyware Remote System Controller (RSC)** 🎛️ - former member of the software development team on the Software Innovation Laboratory's side. [Learn more](https://www.hp.com/us-en/solutions/anyware-remote-system-controller.html)
+- **HP OneCloud** ☁️ - currently providing assistance in maintaining and updating cloud-native distributed systems. [Learn more](https://zone.hponecloud.com/signin)
+
+(For my **résumé**, please refer to my LinkedIn profile by clicking on the button in the [Contact Info](https://github.com/rsuffert/rsuffert/edit/main/README.md#contact-info) section)
+
 ##
 
 ### Main Programming Languages <img src="https://cdn-icons-png.flaticon.com/512/3655/3655567.png" alt="Programming languages icon" width="30" height="30">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java icon" width="50" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python icon" width="50" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Golang icon" width="50" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C language icon" width="50" height="50" />
+
 ##
 
 <p align="center">
