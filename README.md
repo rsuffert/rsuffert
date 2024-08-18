@@ -1,7 +1,16 @@
 # Welcome to my profile! 👋
 
+### Contact Info 📞
+ <a href="https://linkedin.com/in/ricardo-suffert" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+ </a>
+ <a href="mailto:ricardobsuffert@gmail.com" target="_blank">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+ </a>
+
 ### About Me 🙋‍♂️📝
-- Computer Science undergraduate at **Pontifical Catholic University of Rio Grande do Sul (PUCRS)** 🎓📚
+- Software developer from Brazil 🇧🇷
+- Computer Science undergraduate at **Pontifical Catholic University of Rio Grande do Sul (PUCRS)** 🎓
 - Software Engineering Intern at **HP Inc.** 🧑‍💻
 
 ### Fields of Interest ℹ
@@ -20,7 +29,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsuffert&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsuffert&show_icons=true&count_private=true&theme=radical)
-
-### Contact Info 📞
-- 📧 [Email](mailto:ricardobsuffert@gmail.com)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" /> [LinkedIn](https://www.linkedin.com/in/ricardo-suffert/)
