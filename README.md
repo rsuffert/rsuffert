@@ -13,21 +13,20 @@
 ### About Me 🙋‍♂️
 - Software developer & computer scientist from Brazil 🇧🇷
 - Computer Science undergraduate at **Pontifical Catholic University of Rio Grande do Sul (PUCRS)** 🎓
-- Software Engineering Intern at **HP Inc.** 🧑‍💻
+- Software Engineer Intern at **HP Inc.** 🧑‍💻
 
 ##
 
-### Fields of Interest ℹ
-- Back-end and Web Development 🌐
+### Main Fields of Interest ℹ
+- Back-end and Web Development 🛠️
 - Parallel, Distributed & Cloud Computing 📶 ☁️
 - Cybersecurity 🔒
-- Computer Networks 🛜
-- Artificial Intelligence (AI) 🤖
+- Computer Networks 🛜🌐
 
 ##
 
 ### Professional Projects 🚀
-- **HP Anyware Remote System Controller (RSC)** 🎛️ - former member of the software development team on the Software Innovation Laboratory's side. [Learn more](https://www.hp.com/us-en/solutions/anyware-remote-system-controller.html)
+- **HP Remote System Controller (RSC)** 🎛️ - former member of the software development team on the Software Innovation Laboratory's side. [Learn more](https://www.hp.com/us-en/solutions/anyware-remote-system-controller.html)
 - **HP OneCloud** ☁️ - currently providing assistance in maintaining and updating cloud-native distributed systems. [Learn more](https://zone.hponecloud.com/signin)
 
 (For my **résumé**, please refer to my LinkedIn profile by clicking on the button in the [Contact Info](https://github.com/rsuffert/rsuffert/edit/main/README.md#contact-info) section)
