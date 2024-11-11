@@ -17,11 +17,13 @@
 
 ##
 
-### Main Fields of Interest ℹ
+### Fields of Interest ℹ
 - Back-end and Web Development 🛠️
 - Parallel, Distributed & Cloud Computing 📶 ☁️
 - Cybersecurity 🔒
-- Computer Networks 🛜🌐
+- Computer Networks 🛜 🌐
+- Operating Systems ⚙️
+- Artificial Intelligence (AI) 🤖
 
 ##
 
