@@ -14,7 +14,7 @@
 - Passionate software developer and technology enthusiast from Brazil 🇧🇷
 - Computer Science honors undergraduate at [**Pontifical Catholic University of Rio Grande do Sul (PUCRS)**](https://www.pucrs.br/en/) 🎓
 - Software Engineer Intern at **HP Inc.** 🧑‍💻
-- I love coffee ☕, good food 👨‍🍳, gaming 🎮, soccer ⚽, and hiking ⛰️
+- I love coffee ☕, good food 👨‍🍳, gaming 🎮, movies & series 🍿, dogs 🐶, soccer ⚽, and hiking ⛰️
 
 ##
 
