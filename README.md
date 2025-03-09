@@ -44,6 +44,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java icon" width="50" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python icon" width="50" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="Golang (Go)" alt="Golang (Go) icon" width="50" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C language icon" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++ language icon" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Linux Bash" alt="Linux Bash icon" width="50" height="50" />
 
+## Stats
+
 <p align="center">
  <a href="https://github.com/rsuffert">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rsuffert&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
