@@ -8,8 +8,6 @@
  <a href="mailto:ricardobsuffert@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
  </a>
- 
-##
 
 ## About Me 🙋‍♂️
 
@@ -17,7 +15,7 @@
 - Computer Science honors undergraduate at [**Pontifical Catholic University of Rio Grande do Sul (PUCRS)**](https://www.pucrs.br/en/) 🎓
 - Software Engineer Intern at [**HP Inc.**](https://www.hp.com) 🧑‍💻
 
-**Personal interests:**
+### Personal interests
 - Coffee ☕
 - Good food 👨‍🍳
 - Gaming 🎮
@@ -25,8 +23,6 @@
 - Dogs 🐶
 - Soccer ⚽
 - Hiking ⛰️
-
-##
 
 ## Tech Fields of Interest ℹ
 
@@ -38,8 +34,6 @@
 - Parallel, Distributed, and Cloud Computing 📶
 - Programming in General 👨‍💻
 
-##
-
 ## Professional Projects 🚀
 
 - **HP Remote System Controller (RSC)** 🎛️ - former member of the software development team on the [Software Innovation Laboratory](https://www.pucrs.br/en/blog/pucrs-and-hp-inaugurate-renovation-of-software-innovation-lab/)'s side. [Learn more](https://www.hp.com/us-en/solutions/anyware-remote-system-controller.html)
@@ -47,13 +41,9 @@
 
 (For my **résumé**, please refer to my LinkedIn profile by clicking on the button in the [Contact Info](https://github.com/rsuffert/rsuffert/edit/main/README.md#contact-info) section)
 
-##
-
 ## Main Programming Languages <img src="https://cdn-icons-png.flaticon.com/512/3655/3655567.png" alt="Programming languages icon" width="30" height="30">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java icon" width="50" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python icon" width="50" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="Golang (Go)" alt="Golang (Go) icon" width="50" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C language icon" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++ language icon" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Linux Bash" alt="Linux Bash icon" width="50" height="50" />
-
-##
 
 <p align="center">
  <a href="https://github.com/rsuffert">
