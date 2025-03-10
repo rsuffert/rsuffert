@@ -12,8 +12,8 @@
 ## About Me 🙋‍♂️
 
 - **Who am I?** 🇧🇷 Passionate software developer and technology enthusiast from Brazil
-- **Education:** 🎓 Computer Science honors undergraduate at [**Pontifical Catholic University of Rio Grande do Sul (PUCRS)**](https://www.pucrs.br/en/)
-- **Occupation:** 🧑‍💻 Software Engineer Intern at [**HP Inc.**](https://www.hp.com)
+- **Education** 🎓 Computer Science honors undergraduate at [**Pontifical Catholic University of Rio Grande do Sul (PUCRS)**](https://www.pucrs.br/en/)
+- **Occupation** 🧑‍💻 Software Engineer Intern at [**HP Inc.**](https://www.hp.com)
 - **Personal interests:**
    - Coffee ☕️
    - Good food 👨‍🍳
