@@ -1,6 +1,6 @@
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-I'm a software developer from Brazil 🇧🇷 who loves exploring new technologies and solving problems. I'm always seeking opportunities to learn, with my main fields of interest being Internet of Things (IoT) 📡, CyberSecurity 🛡️, Computer Networks 🌐, Operating Systems ⚙️, Artificial Intelligence (AI) 🤖, Parallel, Distributed and Cloud Computing 📶, and programming in general 👨‍💻. I'm currently working at [**HP Inc.**](https://www.hp.com) and completing my major in Computer Science at the [**Pontifical Catholic University of Rio Grande do Sul (PUCRS)**](https://www.pucrs.br/en/). Here, you'll find mainly the code for my college assignments and personal projects. I also love coffee ☕️, good food 👨‍🍳, gaming 🎮, movies & series 🎬, dogs 🐶, soccer ⚽, and hiking ⛰️.
+I'm a software developer from Brazil 🇧🇷 passionate about technology and problem-solving. My main interests include IoT 📡, Cybersecurity 🛡️, Networks 🌐, OS ⚙️, AI 🤖, and Cloud Computing 📶. I work at [**HP Inc.**](https://www.hp.com) and study Computer Science at [**PUCRS**](https://www.pucrs.br/en/). Here you'll find my college assignments and personal projects. Outside of coding, I enjoy coffee ☕️, gaming 🎮, movies 🎬, dogs 🐶, and hiking ⛰️.
 
 ## Contact Info 📞
 
@@ -19,12 +19,12 @@ Feel free to reach out to me to discuss projects and opportunities of any kind. 
 
 ## Main Programming Languages <img src="https://cdn-icons-png.flaticon.com/512/3655/3655567.png" alt="Programming languages icon" width="30" height="30">
 
-![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-D2AA00?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white&logoSize=auto)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&logoSize=auto)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&logoSize=auto)
+![Python](https://img.shields.io/badge/Python-D2AA00?style=for-the-badge&logo=python&logoColor=white&logoSize=auto)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=spring&logoColor=white&logoSize=auto)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&logoSize=auto)
 
 ## My GitHub Stats
 
