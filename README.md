@@ -1,6 +1,6 @@
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-I'm a software developer from Brazil 🇧🇷 passionate about technology and problem-solving. My main interests include IoT 📡, Cybersecurity 🛡️, Networks 🌐, OS ⚙️, AI 🤖, and Cloud Computing 📶. I work at [**HP Inc.**](https://www.hp.com) and study Computer Science at [**PUCRS**](https://www.pucrs.br/en/). Here you'll find my college assignments and personal projects. Outside of coding, I enjoy coffee ☕️, gaming 🎮, movies 🎬, dogs 🐶, and hiking ⛰️.
+I'm a software developer from Brazil 🇧🇷 passionate about technology and problem-solving. My main interests include IoT 📡, Cybersecurity 🛡️, Networks 🌐, OS ⚙️, AI 🤖, and Cloud Computing 📶. I work at [**HP Inc.**](https://www.hp.com) and am completing my major in Computer Science at [**PUCRS**](https://www.pucrs.br/en/). Here you'll find my college assignments and personal projects. Outside of coding, I enjoy coffee ☕️, gaming 🎮, movies 🎬, dogs 🐶, and hiking ⛰️.
 
 ## Contact Info 📞
 
