@@ -1,37 +1,13 @@
-# Hi! I'm Ricardo. Welcome to my profile! 👋
+# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+
+I'm a software developer from Brazil 🇧🇷 who loves exploring new technologies and solving problems. I'm always seeking opportunities to learn, with my main fields of interest being Internet of Things (IoT) 📡, CyberSecurity 🛡️, Computer Networks 🌐, Operating Systems ⚙️, Artificial Intelligence (AI) 🤖, Parallel, Distributed and Cloud Computing 📶, and programming in general 👨‍💻. I'm currently working at [**HP Inc.**](https://www.hp.com) and completing my major in Computer Science at the [**Pontifical Catholic University of Rio Grande do Sul (PUCRS)**](https://www.pucrs.br/en/). Here, you'll find mainly the code for my college assignments and personal projects. I also love coffee ☕️, good food 👨‍🍳, gaming 🎮, movies & series 🎬, dogs 🐶, soccer ⚽, and hiking ⛰️.
 
 ## Contact Info 📞
 
- <a href="https://linkedin.com/in/ricardo-suffert" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
- </a>
- <a href="mailto:ricardobsuffert@gmail.com" target="_blank">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
- </a>
+Feel free to reach out to me to discuss projects and opportunities of any kind. 🙂
 
-## About Me 🙋‍♂️
-
-- **Who I am** 🇧🇷 Passionate software developer and technology enthusiast from Brazil
-- **Education** 🎓 Computer Science honors undergraduate at [**Pontifical Catholic University of Rio Grande do Sul (PUCRS)**](https://www.pucrs.br/en/)
-- **Occupation** 🧑‍💻 Software Engineer Intern at [**HP Inc.**](https://www.hp.com)
-- **Personal interests**
-   - Coffee ☕️
-   - Good food 👨‍🍳
-   - Gaming 🎮
-   - Movies & series 🎬
-   - Dogs 🐶
-   - Soccer ⚽
-   - Hiking ⛰️
-
-## Tech Fields of Interest ℹ
-
-- Internet of Things (IoT) 📡
-- Cybersecurity 🛡️
-- Computer Networks 🌐
-- Operating Systems ⚙️
-- Artificial Intelligence (AI) 🤖
-- Parallel, Distributed, and Cloud Computing 📶
-- Programming in General 👨‍💻
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-suffert)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardobsuffert@gmail.com)
 
 ## Professional Projects 🚀
 
@@ -43,7 +19,12 @@
 
 ## Main Programming Languages <img src="https://cdn-icons-png.flaticon.com/512/3655/3655567.png" alt="Programming languages icon" width="30" height="30">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java icon" width="50" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python icon" width="50" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="Golang (Go)" alt="Golang (Go) icon" width="50" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C language icon" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++ language icon" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Linux Bash" alt="Linux Bash icon" width="50" height="50" />
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-D2AA00?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ## My GitHub Stats
 
